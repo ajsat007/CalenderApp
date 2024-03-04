@@ -15,4 +15,4 @@ This console-based Calendar App is a Java project designed to provide users with
 
 
 ## Contact
-For any questions or inquiries, please feel free to reach out via email at [ajinkyasatkar007@gmail.com](ajinkyasatkar007@gmail.com) or connect with me on LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/).
+For any questions or inquiries, please feel free to reach out via email at [ajinkyasatkar007@gmail.com](ajinkyasatkar007@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/yourprofile/).
